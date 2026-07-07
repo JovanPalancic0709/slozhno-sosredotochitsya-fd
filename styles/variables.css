@@ -10,5 +10,5 @@
   --hover-color: #FF007066;
   --main-title-color: var(--accent-color);
   --main-text-color: #F1B2CE;
-  --titleDecorColor: var(--background-color);
+  --title-decor-color: var(--background-color);
 }

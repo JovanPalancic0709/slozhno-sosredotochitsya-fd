@@ -6,7 +6,7 @@
   --main-title-color: var(--main-text-color);
   --hover-color: #32312D66;
   --main-text-color: #353430;
-  --titleDecorColor: var(--main-text-color);
+  --title-decor-color: var(--main-text-color);
 }
 
 .theme-light .decoration__text{
@@ -22,7 +22,7 @@
   --main-title-color: var(--main-text-color);
   --hover-color: #32312D66;
   --main-text-color: #353430;
-  --titleDecorColor: var(--main-text-color)
+  --title-decor-color: var(--main-text-color)
   }
 
   .decoration__text {
