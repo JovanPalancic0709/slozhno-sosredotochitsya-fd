@@ -6,8 +6,9 @@
   --background-image: url('../images/cover-image-dark.png');
   --background-color: #000028;
   --accent-color: #FF0070;
-  --header__title-color: #DB00FF;
+  --header-title-color: #DB00FF;
   --hover-color: #FF007066;
-  --main__title-color: var(--accent-color);
-  --main__text-color: #F1B2CE;
+  --main-title-color: var(--accent-color);
+  --main-text-color: #F1B2CE;
+  --titleDecorColor: var(--background-color);
 }

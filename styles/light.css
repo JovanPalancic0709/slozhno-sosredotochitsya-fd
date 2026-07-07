@@ -2,13 +2,14 @@
   --background-image: url('../images/cover-image-light.png');
   --background-color: #FFF1F7;
   --accent-color: #FF8DCB;
-  --header__title-color: #FFC2E6;
-  --main__title-color: var(--main__text-color);
+  --header-title-color: #FFC2E6;
+  --main-title-color: var(--main-text-color);
   --hover-color: #32312D66;
-  --main__text-color: #353430;
+  --main-text-color: #353430;
+  --titleDecorColor: var(--main-text-color);
 }
 
-.theme-light .decoration__text {
+.theme-light .decoration__text{
   display: none;
 }
 
@@ -17,13 +18,14 @@
   --background-image: url('../images/cover-image-light.png');
   --background-color: #FFF1F7;
   --accent-color: #FF8DCB;
-  --header__title-color: #FFC2E6;
-  --main__title-color: var(--main__text-color);
+  --header-title-color: #FFC2E6;
+  --main-title-color: var(--main-text-color);
   --hover-color: #32312D66;
-  --main__text-color: #353430;
+  --main-text-color: #353430;
+  --titleDecorColor: var(--main-text-color)
   }
 
-  .theme-light .decoration__text {
+  .decoration__text {
     display: none;
+  }
 }
-} 
