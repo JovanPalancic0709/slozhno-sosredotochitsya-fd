@@ -15,8 +15,6 @@
   --title-decor-color: var(--background-color);
 }
 
-@media (prefers-color-scheme: light) {
-  .theme-dark .decoration__text {
-    display: block;
-  }
+.theme-dark .decoration__text {
+  display: block;
 }
